@@ -1,1 +1,1 @@
-This is to practice uploading code to GitHub from VSCode
+This is a very simple website for my band
