@@ -1,1 +1,1 @@
-This is a very simple website for my band
+This is a very simple website for my wee high school band I've made to get a feel for web design
