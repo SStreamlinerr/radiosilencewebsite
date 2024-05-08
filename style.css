@@ -1,6 +1,6 @@
 body {
     padding: 10px;
-    font-family: system-ui;
+    font-family: h;
     font-size: 19px;
     background-color: #000000;
     color: #c6cfda
@@ -11,7 +11,7 @@ img {
     height: auto;
   }
 
-#obsidian-logo {
-  width:100px;
-  height:100px;
+#soundcloud {
+  width:20px;
+  height:20px;
 }
