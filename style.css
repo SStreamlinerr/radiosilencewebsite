@@ -16,3 +16,27 @@ img {
   width:15px;
   height:15px;
 }
+
+a:link {
+  color: #c6cfda;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #c6cfda;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: rgb(0, 68, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(0, 68, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
